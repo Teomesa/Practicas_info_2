@@ -1,0 +1,11 @@
+release/cuerpo.o
+release/escritor.o
+release/grafica.o
+release/main.o
+release/mainwindow.o
+release/seguimiento.o
+release/simulacion.o
+release/moc_escritor.o
+release/moc_mainwindow.o
+release/moc_seguimiento.o
+release/moc_simulacion.o

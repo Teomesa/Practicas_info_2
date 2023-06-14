@@ -1,0 +1,97 @@
+El tornillo es una máquina simple que deriva directamente de una pieza metálica y siempre trabaja asociado a un orificio roscado. Básicamente puede definirse como un plano inclinado enrollado sobre un cilindro, o lo que es más realista, un surco helicoidal tallado en la superficie de un cilindro (si está tallado sobre un cilindro afilado o un cono tendremos un tirafondo). En él se distinguen tres partes básicas: cabeza, cuello y rosca.1​
+
+=()(/5
+Tornillo con cabeza hexagonal
+El tornillo deriva directamente de la máquina simple conocida como plano inclinado y siempre trabaja asociado a un orificio roscado.2​ Los tornillos permiten que las piezas sujetas con los mismos puedan ser desmontadas cuando la ocasión lo requiera.
+
+Los tornillos están fabricados en muchos materiales y aleaciones; en los tornillos realizados en plástico su resistencia está relacionada con la del material empleado. Un tornillo de aluminio será más ligero que uno de acero (aleación de hierro y carbono), pero será menos resistente ya que el acero tiene mejor capacidad metalúrgica que el aluminio; una aleación de duraluminio mejorará las capacidades de resistencia del aluminio pero disminuirá las de tenacidad, ya que al endurecer el aluminio con silicio o metales como cromo o titanio, se aumentará su dureza pero también su coeficiente de fragilidad a partirse. Los metales más duros son menos tenaces ya que son cualidades antagónicas. La mayoría de las aleaciones especiales de aceros, bronces y aceros inoxidables contienen una proporción de metales variable para adecuar su uso a una aplicación determinada.
+
+Siempre hay que usar el tornillo adecuado para cada aplicación. Si se usa un tornillo con demasiada resistencia de tensión (dureza) que no está ajustado al valor de diseño, podría romperse, como se rompe un cristal, por ser demasiado duro. Esto es porque los tornillos de alta tensión tienen menor resistencia a la fatiga (tenacidad) que los tornillos con un valor de tensión más bajo. Un tornillo compuesto por una aleación más blanda se podría deformar, pero sin llegar a partirse, con lo cual quizá no podría desmontarse pero seguiría cumpliendo su misión de unión.
+
+El estándar ISO se marca con dos números sobre la cabeza del tornillo, por ejemplo "8.8". El primer número indica la resistencia de tensión (la dureza del material); el segundo número significa la resistencia a punto cedente, es decir, la tenacidad del material. Si un tornillo está marcado como 8.8, tiene una dureza (resistencia de tensión) de 800  MPa (megapascales), y una tenacidad (resistencia de tensión) del 80 %. Una marca de 10.9 indica un valor de tensión de 1000 MPa con una resistencia a punto cedente de 900 MPa, 90 % de resistencia de tensión.
+
+Los tornillos pueden soportar hasta un mayor peso o tracción, pero rebasada su capacidad se rajarán, pudiendo quebrarse. Los tornillos fabricados con aleaciones más duras pueden soportar un mayor peso o tracción, pero tienen igualmente un límite y menor tenacidad que los tornillos fabricados en aleaciones más blandas. Si usa un tornillo que ha sido sobreajustado, sea cual sea su dureza, puede quebrarse con facilidad ya que su resistencia de tensión (tenacidad) es muy baja.
+
+Los tornillos los definen las siguientes caracterís645ticas:
+
+Diámetro exterior de la caña: en el sistema métrico se expresa en mm y en el sistema inglés en fracciones de pulgada.
+Tipo de rosca: 65Whitworth, trapecial, redonda, en diente de sierra, eléctrica, etc. Las roscas pueden ser exteriores o machos (tornillos) o bien interiores o hembras (tuercas), debiendo ser sus magnitudes coherentes para que ambos elementos puedan enroscarse.
+Términos de rosca: Existen dos términos ññde rosca que determinan el uso del tornillo en función de la separación del filete o hilo, o la extensión del fondo: a mayor separación entre los filetes menor compresión y torque; a menor separación entre los filetes más aumenta el torque y la compresión. Los tornillos con mayor separación en sus filetes se denominan bajo el término de rosca "NC" (National Coarse), rosca gruesa, mientras que los que tienen menor separación se denominan bajo el término "NTF" (National Thread Fine) o "NF" (National Fine), rosca fina. Esto determina su función, ya que los tornillos de término "NC" son utilizados para anclajes superficiales, mientras que los de tipo "NTF" o "NF" son utilizados para sistemas de gases y fluidos debido a la presión que pueden ejercer.
+Paso de la rosca: distancia que hay entre dos cdfghrestas sucesivas. En el sistema métricoññ se expresa en mm y en el sistema inglés por el número de hilos que hay en una pulgada.
+Sentido de la hélice de la rosca: a derechas o a izquierdas. La mayoría de la tornillería tiene rosca a derechas, pero para aplicaciones especiales, como en ejes de máquinas, contratuercas, etc, tienen alguna vez rosca a izquierdas. Los tornillos de las ruedas de los vehículos industriales tienen roscas de diferente sentido en los tornillos de las ruedas de la derecha (a derechas) que en los de la izquierda (a izquierdas). Esto se debe a que de esta forma los tornillos tienden a apretarse cuando las ruedas giran en el sentido de la marcha. Asimismo, la combinación de roscas a derechas y a izquierdas es utilizada en tensores roscados. El tipo de rosca, métrica o Whitworth, aparte de ser debida al país de origen, tiene distintas características físicas: la rosca inglesa o Whitworth tiene un paso más reducido, por lo cual la rosca métrica tiene una mayor tendencia a aflojarse sola por el movimiento de las piezas. Para evitar este problema se optó por diversas soluciones, como crear variantes de rosca métrica de paso más reducido o usar tuercas y arandelñas especiales que impiden más eficazmente que las piezas en movimiento se aflojen solas.
+Material constituyente y resistencia mecánica que tienen: salvo excepciones, la mayor parte de tornillos son de acero en diferentes grados de aleación y con diferente resistencia mecánica. Para madera se utilizan mucho los tornillos de latón.
+Tipo de cabeza: en estrella o Phillips, Bristol, de pala y algunos otros especiales cg*como torx.
+
+Tipos de tornillos
+El término tornillo se utiliza generalmente en forma genérica: son muchas las variedades de materiales, tipos y tamaños que existen. Una primera clasificación puede ser la siguiente:3​
+
+Tornillos tirafondos para madera
+Autorroscantes y autoperforantes para chapas metálicas y maderas duras
+Tornillos tirafondos para paredes y muros de edificios
+Tornillos de roscas cilíndricas
+Varillas roscadas de un metro de longitud
+Tornillos para madera
+
+Tornillo con rosca para madera.[
+Los tornillos para madera reciben el nombre de tirafondo para madera. Su tamaño y calidad está regulado por la norma DIN-97 y tienen una rosca que ocupa 3/4 de la longitud de la espiga. Pueden ser de acero dulce, inoxidable, latón, cobre, bronce o aluminio, y pueden estar galvanizados, niquelados, bicromatados, etc.
+
+Este tipo de tornillo se estrecha en la punta como una forma de ir abriendo camino a medida que se inserta para facilitar el autorroscado, porque no es necesario hacer un agujero previo, y el filete es afilado y cortante. Normalmente se atornillan con destornillador eléctrico o manual.
+
+Sus cabezas pueden ser planas, ovales o redondeadas; cad´[]*a cual cumplirá una función específica.
+
+Cabeza plana: se usa en carpintería, en general, en donde es necesario dejar la cabeza del tornillo sumergida o a ras con la superficie.
+
+Cabeza puntiagud^~^~a: la porción inferior de la cabeza tiene una forma que le permite hundirse en la //%%$$%superficie y dejar sobresaliendo sólo la parte superior redondeada. Son más fáciles para sacar y tienen mejor presentación que los de cabeza plana. Se usan para fijación de elementos metálicos, como herramientas o chapas de picaportes.
+
+Cabeza redondeada: se usa para fijar piezas demasiado del&&%$gadas como para permitir que el tornillo se hunda en ellas; también para unir partes que requerirán arandelas. En general se emplean para funciones similares a los de cabeza oval, pero en agujeros sin avellanar. Este tipo de tornillo resulta muy fácil de remover.
+
+Las cabezas pueden ser de diferentes clases:
+
+Cabeza fresada (ranura recta): tienen las`&&%# ranuras rectas tradicionales.
+
+Cabeza Phillips: tienen ranuras en forma de cruz para minimizar la posibilidad de que el destornillador se deslice.
+´´
+Cabeza tipo Allen: con un hueco hexagonal, para encajar una llave Allen.
+
+Cabeza Torx: con un hueco en la cabeza en forma de estrella d´´e ´%$#diseño exclusivo Torx.
+
+Las características que definen a los tornillos de madera son[*/*: tipo de cabeza, material constituyente, diámetro de la caña y longitud.
+´´
+Tornillos tirafondos para paredes y madera DIN-571
+Hay una variedad de tornillos que son más gruesos que los clásicos de madera, que se llaman tirafondos y se utilizan mucho para atornillar los soportes de elementos pesados que vayan colgados en las paredes de los edificios, como por ejemplo, toldos, aparatos de aire acondicionado, etc. En estos casos se perfora la pared al diámetro del tornillo elegido, y se inserta un taco de plástico, a continuación se atornilla el tornillo que rosca a presión el taco de plá´´´´stico y así queda sujeto firmemente el soporte. También se utiliza por ejemplo para el atornillado de la madera de grandes embalajes. Estos tornillos tienen la cabeza hexagonal y una gama de M5 a M12.
+
+´´¬¬¬|||
+Diferentes tipos de cabeza de tornillos de chapa.~
+Autorroscantes y autoperforantes para chapas metálicas y maderas duras
+
+Tornillo autorroscante.´´
+Ambos tipos de tornillos pueden abrir su propio camino. Se fabrican en una amplia variedad de formas especiales. Se selecciona el adecuado atendiendo al tipo de trabajo que realizará y el material en el cual se empleará.
+
+Los autorroscantes tienen la mayor parte de su caña cilíndrica || el extremo en forma cónica. Pueden ser de cabeza plana, oval, redondeada o chata. La rosca es delgada, con su fondo plano, para que la plancha se aloje en él. Se usan en láminas o perfiles metálicos, porque permiten unir metal con madera, metal con metal, metal con plástico o con otros materiales. Estos tornillos son completamente tratados (desde la punta hasta la cabeza) y sus bordes son más afilados que los de los tornillos para madera.
+
+En los autoperforantes su punta es una broca, /*-/lo que evita tener que hacer perforaciones guías para instalarlos. Se usan para metales más pesados: van cortando una rosca por delante de la pieza principal del tornillo.
+
+Las dimensiíiiones, tipo de cabeza y calidad están regulados por normas D$$IN. Estas normas son requerimientos técnicos de calidad y seguridad establecidos por el Instituto Alemán de Normalización y se aplican en la industria, el comercio, la ciencia, etc. Son especialmente consideradas en lo que a mecanismos y piezas industriales se refiere, como es el caso de los tornillos, tuercas, arandelas, etc.
+
+Se usan también para ser fijados en las paredes por medio de anclajes de plástico llamados ramplugs.
+
+Fabricación de tornillos
+Los tornillos son elementos presentes en casi todos los campos de construcciones metálicas, de madera o de otras actividades, por eso hay muchos tipos, tamaños, y procesos de fabricación.
+|||
+Desde el punto de vista de la utilización se pueden citar los siguientes tipos de tornillos.
+%$&
+Tornillos para usos generales
+Tornillos de miniatura
+Tornillos de alta resistencia
+Tornillos inviolables|||
+Tornillos de precisión
+Tornillos grandes o especiales
+Tornillos de titanio
+Tornillería para usos generales
+345
+Tornillo calidad 8. 8.
+La producción actual de tornillería está muy automatizada tanto en lo que respecta a la estampación de la cabeza como a la laminación de la rosca. Por lo tanto es fácil encontrar en los establecimientos especializados el tornillo que se necesite, siempre que esté dentro de la gama normal de fabricación.
+
+Los tornillos normales diferencian su calidad en función de###$4^`~ la resiste//&%ncia mecánica que tienen. La norma (EN ISO 898-1) establece el siguiente código de calidades 4. 6, 5. 6, 5. 8, 6. 8, 8. 8, 10. 9 y 12. 9. Los fabricantes están obligados a estampar en la cabeza de los tornillos la calidad a la que pertenecen. El primer número multiplicado por 100 nos indicará la resistencia a la rotura en Newtons/mm². Por lo tanto, un tornillo 10.9 tendrá una resistencia de 10*100=1.000 N/mm². El segundo número indica que porcentaje del límite de rotura es el límite elástico (es la tensión máxima que puede soportar un material «elástico» sin sufrir deformaciones permanentes). Para traducirlo a algo más entendible, indica cuanto podemos apretar el tornillo sin que se deforme (y antes de partirse), por eso se indica como porcentaje. Por lo tanto, un tornillo 10.9 tendrá un límite elástico de 900 N/mm².
+
+En cuanto a dimensiones todas están normalizadas por normas DIN, y los tamañÑños disponibles, en rosca métrica por ejemplo con cabeza hexagonal, oscilan entre M3 y M68; la longitud de los tornillos estándar es variable en un escalón de 5 mm, desde un mínimo a un máximo según sea su diámetro. Sin embargo, si fuese necesario disponer de forma esporádica de tornillos de mayor longitud, se fabrican unas varillas roscadas de 1 m de longitud, donde es posible cortar a la longitud que se desee obtener y con una fijacióooón de dos tuercas por los extremos realizar la fijación que se desee.

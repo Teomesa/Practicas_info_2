@@ -1,0 +1,11 @@
+debug/cuerpo.o
+debug/escritor.o
+debug/grafica.o
+debug/main.o
+debug/mainwindow.o
+debug/seguimiento.o
+debug/simulacion.o
+debug/moc_escritor.o
+debug/moc_mainwindow.o
+debug/moc_seguimiento.o
+debug/moc_simulacion.o
